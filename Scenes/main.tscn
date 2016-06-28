@@ -1,0 +1,14 @@
+[gd_scene format=1]
+
+[node name="Main" type="Node2D"]
+
+[node name="TouchScreenButton" type="TouchScreenButton" parent="."]
+
+normal = null
+pressed = null
+bitmask = null
+passby_press = false
+action = ""
+visibility_mode = 0
+
+
